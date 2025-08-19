@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Jean Cyres Mendivel and I'm a ACT STUDENT, from LEGAZPI CITY.</h2>
 
 ###
 
